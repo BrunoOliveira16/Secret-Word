@@ -8,7 +8,7 @@ Designer 01
 
 ![Screenshot](./public/tela01.jpg)
 
-<h4 align="center"><a href="https://6366516ba9dce964c1ec4c3f--strong-dolphin-ac127d.netlify.app">Clique aqui e visite o projeto</a></h4>
+<h4 align="center"><a href="https://palavra-secreta-projeto-react.netlify.app/">Clique aqui e visite o projeto</a></h4>
 
 ## 📚 Descrição
 
